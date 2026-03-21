@@ -86,6 +86,29 @@ Reference appendices now available on the default branch:
 - `docs/07-appendices/appendix-b-full-use-case-catalog.md`
 - `docs/07-appendices/appendix-c-full-glossary-and-concept-definitions.md`
 
+### Solution Architecture Foundation
+
+Current draft chapter files:
+
+- `docs/08-solution-architecture/00-chapter-overview.md`
+- `docs/08-solution-architecture/01-architecture-drivers.md`
+- `docs/08-solution-architecture/02-patterns-and-architecture-principles.md`
+- `docs/08-solution-architecture/03-domain-landscape.md`
+- `docs/08-solution-architecture/04-functional-architecture.md`
+- `docs/08-solution-architecture/05-structurizr-workspace.md`
+- `docs/08-solution-architecture/06-c4-modeling-decisions.md`
+- `docs/08-solution-architecture/07-risks-assumptions-open-questions.md`
+- `docs/08-solution-architecture/structurizr/workspace.dsl`
+
+## Architecture Book Status
+
+| Chapter | Title | Status | Primary path | Notes |
+| --- | --- | --- | --- | --- |
+| 08 | Solution Architecture Foundation | Draft | `docs/08-solution-architecture/` | Establishes architecture drivers, strategic domain boundaries, functional architecture, and the canonical Structurizr workspace. |
+| 09 | Domain Architecture | Planned/Open | `docs/09-domain-architecture/` | Placeholder for downstream domain architecture elaboration after chapter 08 merges. |
+| 10 | Integration Architecture | Planned/Open | `docs/10-integration-architecture/` | Placeholder for downstream integration architecture elaboration after chapter 08 merges. |
+| 11 | Application Architecture | Planned/Open | `docs/11-application-architecture/` | Placeholder for downstream application architecture elaboration after chapter 08 merges. |
+
 ## Editorial Notes
 
 - The canonical domain name for this dossier is **Housing Community Administration and Resident Communication in Poland**.
