@@ -11,7 +11,7 @@ This dossier frames the business domain for EchoCorner as **Housing Community Ad
 
 ### Business Context
 
-Planned specialist-owned files:
+Current merged chapter files:
 
 - `docs/02-business-context/00-chapter-overview.md`
 - `docs/02-business-context/01-overview.md`
@@ -26,7 +26,7 @@ Planned specialist-owned files:
 
 ### Business Capabilities
 
-Planned specialist-owned files:
+Current merged chapter files:
 
 - `docs/03-business-capabilities/00-chapter-overview.md`
 - `docs/03-business-capabilities/01-capability-view-overview.md`
@@ -35,13 +35,9 @@ Planned specialist-owned files:
 - `docs/03-business-capabilities/04-capability-boundaries.md`
 - `docs/03-business-capabilities/05-capability-observations.md`
 
-Supporting appendix:
-
-- `docs/07-appendices/appendix-a-full-capability-definitions.md`
-
 ### Business Behavior
 
-Planned specialist-owned files:
+Current merged chapter files:
 
 - `docs/04-business-behavior/00-chapter-overview.md`
 - `docs/04-business-behavior/01-behavioral-overview.md`
@@ -58,13 +54,9 @@ Planned specialist-owned files:
 - `docs/04-business-behavior/04-business-scenarios/SC-003-community-wide-maintenance-disruption.md`
 - `docs/04-business-behavior/05-cross-use-case-observations.md`
 
-Supporting appendix:
-
-- `docs/07-appendices/appendix-b-full-use-case-catalog.md`
-
 ### Business Information and Vocabulary
 
-Planned specialist-owned files:
+Current merged chapter files:
 
 - `docs/05-business-information/00-chapter-overview.md`
 - `docs/05-business-information/01-information-domain-overview.md`
@@ -82,16 +74,20 @@ Planned specialist-owned files:
 - `docs/05-business-information/04-glossary.md`
 - `docs/05-business-information/05-semantic-issues-and-open-questions.md`
 
-Supporting appendix:
-
-- `docs/07-appendices/appendix-c-full-glossary-and-concept-definitions.md`
-
 ### Cross-Artifact Alignment
 
 - `docs/06-cross-artifact-alignment/01-dossier-plan-and-dispatch.md`
 
+### Appendices
+
+Reference appendices now available on the default branch:
+
+- `docs/07-appendices/appendix-a-full-capability-definitions.md`
+- `docs/07-appendices/appendix-b-full-use-case-catalog.md`
+- `docs/07-appendices/appendix-c-full-glossary-and-concept-definitions.md`
+
 ## Editorial Notes
 
 - The canonical domain name for this dossier is **Housing Community Administration and Resident Communication in Poland**.
-- Chapter files are listed in reading order so the folder structure matches how the dossier should be consumed.
+- Chapter and appendix files are listed in reading order so the folder structure matches how the dossier should be consumed.
 - All content in this dossier is business-facing and intentionally avoids solution design or implementation detail.

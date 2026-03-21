@@ -1,6 +1,6 @@
 # Reading Guide
 
-This dossier is structured as one business book. Each chapter has a distinct purpose and should be read in sequence.
+This dossier is structured as one business book. Each chapter has a distinct purpose and should be read in sequence, with appendices used as supporting reference material after the core narrative.
 
 ## How To Read This Dossier
 
@@ -10,6 +10,7 @@ This dossier is structured as one business book. Each chapter has a distinct pur
 4. Read `docs/04-business-behavior/` to understand how those capabilities appear in real business use cases and scenarios.
 5. Read `docs/05-business-information/` to stabilize the meaning of the core business terms and relationships used across the dossier.
 6. Read `docs/06-cross-artifact-alignment/` to confirm that the chapters remain consistent, complete, and traceable.
+7. Read `docs/07-appendices/` for the full capability definitions, use case catalog, and glossary-style reference material that supports the main chapters.
 
 ## Canonical Language
 
