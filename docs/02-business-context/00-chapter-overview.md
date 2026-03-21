@@ -2,13 +2,13 @@
 
 ## Chapter Purpose
 
-This chapter introduces the business domain **Housing Community Administration and Resident Communication in Poland**. It explains why the domain matters, which business parties it serves, what outcomes are expected, and which business boundaries the rest of the dossier must inherit.
+This chapter introduces the business domain **Housing Community Administration and Resident Communication in Poland**. It explains the Polish operating setting in which housing communities are administered, how administrator responsibility is established and changed over time, why owner communication and support handling matter as governed business activities, and which boundaries the rest of the dossier must inherit.
 
 ## What This Chapter Covers
 
 This chapter establishes:
 
-- the business setting for Polish housing-community administration
+- the business setting for Polish housing-community administration, including the fact that communities, administrator companies, and owners operate inside a governed relationship rather than an informal communication space
 - the purpose of the initiative and the business problem it addresses
 - the goals, value expectations, and success measures for the domain
 - the stakeholders whose interests shape the scope
@@ -16,7 +16,7 @@ This chapter establishes:
 
 ## How To Read This Chapter
 
-Read this chapter as the opening frame for the dossier rather than as a detailed specification. It provides the stable business narrative that later chapters will refine into capabilities, behavior, and vocabulary.
+Read this chapter as the opening frame for the dossier rather than as a detailed specification. It provides the stable business narrative that later chapters will refine into capabilities, behavior, and vocabulary, while keeping the Polish business and legal context visible enough that later chapters do not silently treat communication, support, or reassignment as generic activities.
 
 ## Relationship To Later Chapters
 
