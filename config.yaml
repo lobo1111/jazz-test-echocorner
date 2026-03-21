@@ -1,0 +1,4 @@
+# Jazz CLI: workspace location (relative to this file's directory).
+# Overridden by --root when passed.
+# Jazz also looks for ~/.jazz/config.yaml (checked first).
+workspace: /home/tomas/code/autobot-jazz/workspace
