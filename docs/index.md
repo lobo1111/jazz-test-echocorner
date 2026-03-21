@@ -100,13 +100,35 @@ Current draft chapter files:
 - `docs/08-solution-architecture/07-risks-assumptions-open-questions.md`
 - `docs/08-solution-architecture/structurizr/workspace.dsl`
 
+### Domain Architecture
+
+Current merged chapter files:
+
+- `docs/09-domain-architecture/00-chapter-overview.md`
+- `docs/09-domain-architecture/01-subdomain-overview.md`
+- `docs/09-domain-architecture/02-bounded-contexts.md`
+- `docs/09-domain-architecture/03-context-map.md`
+- `docs/09-domain-architecture/04-domain-responsibilities.md`
+- `docs/09-domain-architecture/05-risks-assumptions-open-questions.md`
+
+### Integration Architecture
+
+Current draft chapter files:
+
+- `docs/10-integration-architecture/00-chapter-overview.md`
+- `docs/10-integration-architecture/01-integration-drivers.md`
+- `docs/10-integration-architecture/02-integration-scenarios.md`
+- `docs/10-integration-architecture/03-interaction-patterns.md`
+- `docs/10-integration-architecture/04-integration-boundaries.md`
+- `docs/10-integration-architecture/05-risks-assumptions-open-questions.md`
+
 ## Architecture Book Status
 
 | Chapter | Title | Status | Primary path | Notes |
 | --- | --- | --- | --- | --- |
 | 08 | Solution Architecture Foundation | Draft | `docs/08-solution-architecture/` | Establishes architecture drivers, strategic domain boundaries, functional architecture, and the canonical Structurizr workspace. |
-| 09 | Domain Architecture | Planned/Open | `docs/09-domain-architecture/` | Placeholder for downstream domain architecture elaboration after chapter 08 merges. |
-| 10 | Integration Architecture | Planned/Open | `docs/10-integration-architecture/` | Placeholder for downstream integration architecture elaboration after chapter 08 merges. |
+| 09 | Domain Architecture | Draft | `docs/09-domain-architecture/` | Confirms bounded contexts and the context map aligned with chapter 08. |
+| 10 | Integration Architecture | Draft | `docs/10-integration-architecture/` | High-level cross-context collaboration, reassignment coordination, and interaction patterns above transport and API design. |
 | 11 | Application Architecture | Planned/Open | `docs/11-application-architecture/` | Placeholder for downstream application architecture elaboration after chapter 08 merges. |
 
 ## Editorial Notes
