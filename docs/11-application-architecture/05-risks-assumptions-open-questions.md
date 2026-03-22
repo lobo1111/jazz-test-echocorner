@@ -34,6 +34,6 @@ Detailed designers and integrators should use this chapter together with:
 
 - Chapter 08 for immutable intent and Structurizr scope
 - Chapter 09 for bounded-context discipline
-- Chapter 10, when available, for concrete collaboration contracts
+- Chapter 10 for concrete collaboration contracts and integration-boundary detail
 
 If a design choice **moves assignment truth, merges engagement and support lifecycles, or makes continuity authoritative for current state**, it conflicts with this chapter and must be escalated to solution and domain architecture updates first.
