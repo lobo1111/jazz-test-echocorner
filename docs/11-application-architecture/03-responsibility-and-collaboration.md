@@ -1,6 +1,6 @@
 # Responsibility And Collaboration
 
-This section describes how the building blocks **hand off work and depend on each other** inside EchoCorner. It stays above APIs and message shapes; chapter 10 will elaborate integration patterns when merged.
+This section describes how the building blocks **hand off work and depend on each other** inside EchoCorner. It stays above APIs and message shapes; chapter 10 holds integration patterns and collaboration contracts for the dossier, while this chapter stays one level above those specifics.
 
 ## Dependency Direction (Functional)
 
