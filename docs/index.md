@@ -122,14 +122,25 @@ Current draft chapter files:
 - `docs/10-integration-architecture/04-integration-boundaries.md`
 - `docs/10-integration-architecture/05-risks-assumptions-open-questions.md`
 
+### Application Architecture
+
+Current draft chapter files:
+
+- `docs/11-application-architecture/00-chapter-overview.md`
+- `docs/11-application-architecture/01-application-overview.md`
+- `docs/11-application-architecture/02-functional-building-blocks.md`
+- `docs/11-application-architecture/03-responsibility-and-collaboration.md`
+- `docs/11-application-architecture/04-cross-cutting-capabilities.md`
+- `docs/11-application-architecture/05-risks-assumptions-open-questions.md`
+
 ## Architecture Book Status
 
 | Chapter | Title | Status | Primary path | Notes |
 | --- | --- | --- | --- | --- |
 | 08 | Solution Architecture Foundation | Draft | `docs/08-solution-architecture/` | Establishes architecture drivers, strategic domain boundaries, functional architecture, and the canonical Structurizr workspace. |
-| 09 | Domain Architecture | Draft | `docs/09-domain-architecture/` | Confirms bounded contexts and the context map aligned with chapter 08. |
-| 10 | Integration Architecture | Draft | `docs/10-integration-architecture/` | High-level cross-context collaboration, reassignment coordination, and interaction patterns above transport and API design. |
-| 11 | Application Architecture | Planned/Open | `docs/11-application-architecture/` | Placeholder for downstream application architecture elaboration after chapter 08 merges. |
+| 09 | Domain Architecture | Draft | `docs/09-domain-architecture/` | Bounded contexts, context map, and domain responsibilities aligned with chapter 08. |
+| 10 | Integration Architecture | Draft | `docs/10-integration-architecture/` | Cross-context collaboration, reassignment coordination, and interaction patterns above transport and API design. |
+| 11 | Application Architecture | Draft | `docs/11-application-architecture/` | Internal functional building blocks, collaboration, and cross-cutting placement above implementation detail. |
 
 ## Editorial Notes
 
