@@ -1,0 +1,6 @@
+# Jazz CLI: workspace location (relative to this file's directory).
+# Overridden by --root when passed.
+# Jazz also looks for ~/.jazz/config.yaml (checked first).
+workspace: /home/tomas/code/autobot-jazz/workspace
+# Default for `jazz heartbeat`, `jazz loop`, `jazz bootstrap`, `jazz agents prompt` when --project-id is omitted.
+project_id: echocorner
